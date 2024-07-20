@@ -19,13 +19,16 @@ I'm a **3rd Year BTech CSE Student** with a major in **AI**. I am passionate abo
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 
 ## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajV95&theme=radical" alt="Streak Stats"/>
+</div>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RajV95&theme=radical)
 
 <!--
 ## 🏆 Achievements
 ![LeetCode Stats](https://leetcode.card.workers.dev/RajV95?theme=dark)
 <!--
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RajV95&theme=radical)
 **RajV95/RajV95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
